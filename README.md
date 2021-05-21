@@ -12,13 +12,13 @@
 - 📫 Dev.to: [https://dev.to/smartbackme](https://dev.to/smartbackme)
 - 💬 Email: 297165331@qq.com
 
-**langs ⚡**
+**Languages ⚡**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smartbackme)](https://github.com/smartbackme/github-readme-stats)
 
 --- 
 
-**repo 🔭 **
+**Open Source Projects 🔭**
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smartbackme&repo=AutoPage)](https://github.com/smartbackme/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smartbackme&repo=SimpleInterceptor)](https://github.com/smartbackme/github-readme-stats)
