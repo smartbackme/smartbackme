@@ -1,4 +1,35 @@
-### Hi there 👋
+###  <center>Hi 👋 </center>
+---
+<center>I'm SmartBackMe.</center>
+
+<img align="right" alt="GIF" width="250px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+**About Me**
+
+- 👨‍💻 Senior Android Development Engineer
+- 💼 China Beijing Education Technology Co., Ltd
+- 📝 Blog: [https://blog.csdn.net/s297165331](https://blog.csdn.net/s297165331)
+- 📫 Dev.to: [https://dev.to/smartbackme](https://dev.to/smartbackme)
+- 💬 Email: 297165331@qq.com
+
+**langs ⚡**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smartbackme)](https://github.com/smartbackme/github-readme-stats)
+
+--- 
+
+**repo 🔭 **
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smartbackme&repo=AutoPage)](https://github.com/smartbackme/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smartbackme&repo=SimpleInterceptor)](https://github.com/smartbackme/github-readme-stats)
+
+---
+
+** re**
+
+[![smartbackme GitHub stats](https://github-readme-stats.vercel.app/api?username=smartbackme&show_icons=true&theme=radical)](https://github.com/smartbackme/github-readme-stats)
+
+
 
 <!--
 **smartbackme/smartbackme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +45,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![smartbackme GitHub stats](https://github-readme-stats.vercel.app/api?username=smartbackme&show_icons=true&theme=radical)](https://github.com/smartbackme/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smartbackme&repo=AutoPage)](https://github.com/smartbackme/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smartbackme&repo=SimpleInterceptor)](https://github.com/smartbackme/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smartbackme)](https://github.com/smartbackme/github-readme-stats)
+
