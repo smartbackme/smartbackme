@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![smartbackme GitHub stats](https://github-readme-stats.vercel.app/api?username=smartbackme&show_icons=true&theme=radical)](https://github.com/smartbackme/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smartbackme&repo=AutoPage)](https://github.com/smartbackme/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smartbackme&repo=SimpleInterceptor)](https://github.com/smartbackme/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smartbackme)](https://github.com/smartbackme/github-readme-stats)
