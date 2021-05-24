@@ -14,19 +14,19 @@
 
 **Languages ⚡**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smartbackme&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/smartbackme/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smartbackme&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)]
 
 --- 
 
 **Open Source Projects 🔭**
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smartbackme&repo=AutoPage&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/smartbackme/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smartbackme&repo=SimpleInterceptor&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/smartbackme/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smartbackme&repo=AutoPage&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/smartbackme/AutoPage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smartbackme&repo=SimpleInterceptor&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/smartbackme/SimpleInterceptor)
 
 ---
 
 
-[![smartbackme GitHub stats](https://github-readme-stats.vercel.app/api?username=smartbackme&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)](https://github.com/smartbackme/github-readme-stats)
+[![smartbackme GitHub stats](https://github-readme-stats.vercel.app/api?username=smartbackme&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)]
 
 
 
