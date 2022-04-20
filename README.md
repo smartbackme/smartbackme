@@ -25,7 +25,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smartbackme&repo=ulog&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/smartbackme/ulog)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smartbackme&repo=flutter_interceptor&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/smartbackme/flutter_interceptor)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smartbackme&repo=emas_tlog&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/smartbackme/emas_tlog)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smartbackme&repo=kg_charts&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/smartbackme/kg_charts)
 ---
 
 
