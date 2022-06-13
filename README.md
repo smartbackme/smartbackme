@@ -27,7 +27,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smartbackme&repo=emas_tlog&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/smartbackme/emas_tlog)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smartbackme&repo=kg_charts&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/smartbackme/kg_charts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smartbackme&repo=KgDensity&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/smartbackme/KgDensity)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=smartbackme&repo=free_dialog&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/smartbackme/free_dialog)
 ---
 
 
